@@ -1,0 +1,15 @@
+export const testConfig = {
+  local: 'http://localhost:3002',
+  development: 'https://web-dev.clarifai.com',
+  staging: 'https://web-staging.clarifai.com',
+  stagingApiBaseUrl: 'https://web-staging.clarifai.com/api/_api/v2',
+  devApiBaseUrl: 'https://web-dev.clarifai.com/api/_api/v2',
+  clarifaiUserStorageStatePath: './e2e/storage-state/clarifaiUser.json',
+  externalUserStorageStatePath: './e2e/storage-state/externalUser.json',
+  actionTimeoutMs: 10000,
+  expectTimeoutMs: 10000,
+  navigationTimeoutMs: 30000,
+  waitForElementMs: 30000,
+  eachTestTimeoutMs: 180000,
+  suiteExecutionTimeoutMs: 30 * 60000,
+};

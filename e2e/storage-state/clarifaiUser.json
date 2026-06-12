@@ -1,0 +1,112 @@
+{
+  "cookies": [
+    {
+      "name": "AMP_MKTG_5b4293ec6b",
+      "value": "JTdCJTdE",
+      "domain": ".clarifai.com",
+      "path": "/",
+      "expires": 1748738141,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2087473034.1717202143",
+      "domain": ".clarifai.com",
+      "path": "/",
+      "expires": 1751762143.151594,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x_clarifai_session_token",
+      "value": "onim9fxdq5q0tcds53yvde6sagfvio",
+      "domain": ".clarifai.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_0J9Q74ZZY2",
+      "value": "GS1.1.1717202143.1.1.1717202150.0.0.0",
+      "domain": ".clarifai.com",
+      "path": "/",
+      "expires": 1751762150.0957,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_5b4293ec6b",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI1N2MyNDlhNC0yZjVjLTRiM2ItYmJlMC0xNjBiNTY0MmE4ZDIlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjJyYWJpYXN0ZyUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3MTcyMDIxNDg2NDElMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzE3MjAyMTUwMDk5JTJDJTIybGFzdEV2ZW50SWQlMjIlM0ExMiU3RA==",
+      "domain": ".clarifai.com",
+      "path": "/",
+      "expires": 1748738150,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=1&id=7ad92406-7652-4936-ab07-3e87c402dc30&created=1717202141627&expire=1717203049003",
+      "domain": "web-staging.clarifai.com",
+      "path": "/",
+      "expires": 1717203050,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://web-staging.clarifai.com",
+      "localStorage": [
+        {
+          "name": "ld:645125f6843a7b129a4f7873:$diagnostics",
+          "value": "{\"dataSinceDate\":1717202147944,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "__user_id",
+          "value": "\"rabiastg\""
+        },
+        {
+          "name": "ldFlags",
+          "value": "{\"Enable-Labeler-Carousel\":false,\"annotations-mode\":true,\"assymetric-search-tooltip-text\":\"This is a test description for assymetric-search-tooltip-text 2\",\"asymmetric-search-tooltip-text\":\"test2\",\"auto-annotation-labeling-task-ff\":true,\"autoAnnotationLabelingTaskFF\":false,\"changelog\":\"10.4 Release Notes\",\"default-base-workflow-option-for-image\":\"Universal\",\"default-base-workflow-option-for-text\":\"Text\",\"documentation-link-lookup\":{\"input-manager-object-mode\":\"https://docs.clarifai.com/portal-guide/psearch/prank\"},\"enable-asymetric-search\":true,\"enable-asymmetric-search\":true,\"enable-dataset-listing\":true,\"enable-resource-pricing\":false,\"enableTemplateFeatureLdff\":true,\"filter-by-input-type\":true,\"filter-by-labeler\":true,\"filter-by-status\":true,\"filters-tooltip-text\":{\"labeler\":\"This is a text for labeler\",\"operator\":\"\",\"status\":\"This is a text for status\"},\"hide-similarity-search-for-text\":true,\"input-viewer-sidebar-ai-assist-panel\":true,\"input-viewer-video-track-timeline\":true,\"inputs-manager-grid-video-controls\":true,\"leaderboard-panel\":true,\"model-creation-huggingface-import\":true,\"model-creation-triton-upload\":true,\"modelVersionTableV2\":true,\"modulePublishing\":false,\"nodePoolDeploymentsLDFF\":false,\"predictModeExploreAllLDFF\":false,\"primary-input-type-app-creation\":true,\"resourceVersionSelectorFF\":true,\"resourceVersionSelectorInModelFF\":false,\"serverSideResourceFetchingLDFF\":false,\"show-go-to-new-task-review-screen\":false,\"show-go-to-old-task-review-screen\":false,\"show-go-to-old-task-review-screen-ldff\":false,\"show-image-mask-annotations\":true,\"show-inputs-counts\":true,\"symmetric-search-tooltip-text\":\"test2\",\"test\":\"baz\",\"test2\":true,\"textGenImageUploadLDFF\":true,\"textToTextView\":true,\"thirdPartyApiKeyAvailableLDFF\":false,\"trainingTimeEstimate\":true,\"upgrade-app-to-universal-workflow-modal-button\":true,\"view-annotation-metrics-button\":true}"
+        },
+        {
+          "name": "path-before-signup",
+          "value": "\"/explore\""
+        },
+        {
+          "name": "__anon_id",
+          "value": "\"ded22800-0f08-45b7-b376-36bb55f8ce0c\""
+        },
+        {
+          "name": "__user_traits",
+          "value": "{}"
+        },
+        {
+          "name": "AMP_unsent_5b4293ec6b",
+          "value": "[]"
+        },
+        {
+          "name": "clfai_authData",
+          "value": "{\"data\":{\"first_name\":\"fName-44e0syg4k5m0qz97igtmf\",\"last_name\":\"lName-44e0syg4k5m0qz97igtmf\",\"session_token\":\"onim9fxdq5q0tcds53yvde6sagfvio\",\"email\":\"rabia.ali+playwright@clarifai.com\",\"user_id\":\"rabiastg\",\"email_addresses\":[{\"email\":\"rabia.ali+playwright@clarifai.com\",\"primary\":true,\"verified\":true},{\"email\":\"clarifai.developer+mrk-r81zyga8uhndgbdwofaw3@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-74s3j6cm7w19p5rb907qp@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-f7vwogkb34f7thuq14zw6@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-ml41lvww4f816o482hq4l@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-5fmbkq2un31430rsnhjs1@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-vmzhpxufedwqazjqq7wj5@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-wcht2h4bhos0nqx8bpfno@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-1htbm99ok6a2rontqs8tj@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-4k141trcomdyirfttkkj6@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-r2shwcu02jod0yprcqgbb@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-kjqdwldjod9a14v6h4mvf@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-omd4q5v2fku815gikeno2@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-twkee2lgbseg6aesuujok@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-hd0eoxghgx19un300hck0@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-c3x3cd2a82j98wdfb4pcs@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-kooxju4ry768kr4raxf06@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-vn55bonlfzpsggh96w6lv@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-yxflvm8jwuppvyacs3kpt@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-d6qa83auzc58lfr5qhkyi@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-qk3vq42c88mhnspxve8kd@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-uhpu4cpfbcaydi5x203se@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-jq5n5y9pw5kjhl4hgy4tm@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-8tb52bhbtw3uge7kxx7hn@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-lrm2pkei3oykixkt9qquc@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-vx099m6k9losasq9movui@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-3lvjbbg2lqrpik0f6xv1r@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-39kgn5om1crqmnljglf67@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-emz7au6ugvw8nywevndlc@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-aifcixy0can39qr5qe36z@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-u054wcpyd9tcp1orfry5n@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-gdoegst6l1703io4997l0@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-uxj4pqchyovv38rzoalvz@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-g1ymd59g51zee5kdfvhf4@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-3tko8i284awlmljtoc1oh@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-i883gr7t2fudp39gigvaa@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-bfmhl3uia7kjs2mlosthl@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-wpfxzy8azwpl5fridf5du@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-u7098uh843wjkh3rpyn7e@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-8uv4a0gjvg9wrq4sd8gep@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-wz8cplnl8j6zrxrwjzend@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-8ygy1xgzzqw4nkhyb4nye@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-fsw534jjsrqmbtiwksd1n@e2e.cf.ai\",\"primary\":false,\"verified\":false},{\"email\":\"clarifai.developer+mrk-erxflk4ctn8i7blxua92w@e2e.cf.ai\",\"primary\":false,\"verified\":false}],\"is_email_verified\":true,\"organizations\":[{\"organization\":{\"id\":\"model-lifecycle\",\"created_at\":\"2023-01-24T01:58:06.507749Z\",\"modified_at\":\"2023-01-24T01:58:06.507749Z\",\"name\":\"model-lifecycle\",\"billing_email\":\"yuchen.fama@clarifai.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"xyz-123\",\"created_at\":\"2024-06-03T10:32:01.062010Z\",\"modified_at\":\"2024-06-03T10:32:01.062010Z\",\"name\":\"xyz\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"abc-123\",\"created_at\":\"2024-06-03T10:32:34.767150Z\",\"modified_at\":\"2024-06-03T10:32:34.767150Z\",\"name\":\"abc\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"1211\",\"created_at\":\"2024-06-03T10:33:19.298450Z\",\"modified_at\":\"2024-06-03T10:33:19.298450Z\",\"name\":\"org-1\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"main-org1\",\"created_at\":\"2024-06-03T10:34:33.188956Z\",\"modified_at\":\"2024-06-03T10:34:33.188956Z\",\"name\":\"main-org\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"new88\",\"created_at\":\"2024-06-03T10:35:09.065217Z\",\"modified_at\":\"2024-06-03T10:35:09.065217Z\",\"name\":\"new6\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"1\",\"created_at\":\"2024-06-03T10:35:57.258647Z\",\"modified_at\":\"2024-06-03T10:35:57.258647Z\",\"name\":\"neworg-6\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"0999999999\",\"created_at\":\"2024-06-03T10:36:56.335347Z\",\"modified_at\":\"2024-06-03T10:36:56.335347Z\",\"name\":\"neworg-7\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"},{\"organization\":{\"id\":\"09\",\"created_at\":\"2024-06-03T10:41:24.810555Z\",\"modified_at\":\"2024-06-03T10:41:24.810555Z\",\"name\":\"neworg-8\",\"billing_email\":\"halimfatima999@gmail.com\"},\"role\":{\"id\":\"org-owner\",\"modified_at\":\"2023-12-01T18:44:40.442670Z\",\"name\":\"Admin\",\"description\":\"Unrestricted access to organization\",\"type\":1},\"feature_flag_configs\":\"{\\\"AppAddCollaborators\\\":1,\\\"DatastoreAppDuplication\\\":1,\\\"DatastoreAppReindexing\\\":1,\\\"DatastoreDataCollector\\\":1,\\\"LabelerAIAssistedLabeling\\\":1,\\\"LabelerConsensusReview\\\":1,\\\"LabelerLabelSuggestion\\\":1,\\\"LabelerLabelingAsAService\\\":1,\\\"LabelerLabelingTasks\\\":1,\\\"LabelerMultiPointPolygon\\\":1,\\\"LabelerOptimizedTaskReview\\\":1,\\\"LabelerTaskAssignmentRule\\\":1,\\\"LabelerVideoInterpolation\\\":1,\\\"ModelAnnotationWriter\\\":1,\\\"ModelConceptThresholder\\\":1,\\\"ModelCustomCodeOperator\\\":1,\\\"ModelExport\\\":1,\\\"ModelImportHF\\\":1,\\\"ModelRandomSample\\\":1,\\\"ModelUpload\\\":1,\\\"ModelVisualClassifier\\\":1,\\\"ModelVisualDetector\\\":1,\\\"ModelVisualEmbedder\\\":1,\\\"MultiOrganization\\\":1,\\\"OrgCreateOrganization\\\":1,\\\"TrainingCustomFacialRecognition\\\":1,\\\"TrainingDeepTraining\\\":1}\"}],\"is_onboarding_pending\":false,\"metadata\":{\"InputManager\":{\"dontShowMessageAgain\":false,\"hasSkippedChangeAppWorkflowModal\":true},\"InputViewer\":{\"zoomTextLevel\":\"XL\"},\"apps\":{\"pinned\":[]}},\"visibility\":{\"gettable\":50}}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MTRwaDZ1bWxvanpwNg=="
+        }
+      ]
+    }
+  ]
+}
